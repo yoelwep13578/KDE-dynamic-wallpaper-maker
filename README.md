@@ -30,7 +30,7 @@ This idea originated from a guide shared by u/MissBrae01 in [Plasma 6.5's Day/Ni
     metadata.json
 ```
 
-And `matadata.json` will writen like this.
+And `metadata.json` will writen like this.
 
 **With Author**
 ```json
@@ -63,13 +63,17 @@ You will be asked to fill information, such as:
 
 2. Path of the image file you want to use for Dark Mode (just drag and drop it into the terminal)
 
-3. Name of wallpaper folder you want
+3. Name of wallpaper folder you want <br>
+   Filling `WALLPAPER_FOLDER_NAME`
 
-4. Name of  wallpaper you want to display on Desktop & Wallpaper Settings
+4. Name of wallpaper you want to display on Desktop & Wallpaper Settings <br>
+   Filling `WALLPAPER_NAME`
 
-5. Author's name (optional)
+5. Author's name (optional) <br>
+   Filling `AUTHOR_NAME`
 
-6. Image resolution to be used as file name (just press `[Enter]` because autodetect is available based on selected image)
+6. Image resolution to be used as file name (just press `[Enter]` because autodetect is available based on selected image) <br>
+   Filling `IMAGE_RESOLUTION`
 
 7. Then save it to a location of your choice, between:
    - Local Share/User Only `~/.local/share/wallpapers`
