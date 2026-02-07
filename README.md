@@ -13,6 +13,14 @@ An `.sh` terminal-based script to create light/dark wallpaper list in KDE Plasma
 https://github.com/user-attachments/assets/b6c71238-7470-49c5-ada0-bed1c06294eb
 
 
+## Common Requirements
+
+Some of these software will be used by this script. The list below is not mandatory to install.
+
+- `ImageMagick` to read/get image resolution
+- `curl` or `wget` to obtain this script. This will be used to run the script directly without cloning/saving it
+
+
 ## How to Use
 
 1. Run this script (without bothering to clone repo) by copying this command and running it in terminal
@@ -27,7 +35,8 @@ https://github.com/user-attachments/assets/b6c71238-7470-49c5-ada0-bed1c06294eb
    bash <(wget -qO- https://raw.githubusercontent.com/yoelwep13578/KDE-dynamic-wallpaper-maker/refs/heads/main/light-dark-wallpaper-maker.sh)
    ```
 
-3. Press `[Enter]` and follow the instructions
+2. Press `[Enter]` and follow the instructions
+
 
 ## How it Started & How it Works
 
