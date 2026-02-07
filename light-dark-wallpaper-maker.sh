@@ -92,7 +92,7 @@ echo -e "\n\n"
 
 author_name=""
 while :; do
-    echo -e "Ehter the author’s name (optional) \nThe author’s name will be displayed in the wallpaper settings, exactly below the wallpaper name.\n"
+    echo -e "Enter the author’s name (optional) \nThe author’s name will be displayed in the wallpaper settings, exactly below the wallpaper name.\n"
     echo "            WITH AUTHOR                       WITHOUT AUTHOR          "
     echo "    ┌─────────────────────────┐        ┌─────────────────────────┐    "
     echo "    │                      ☯︎  │        │                      ☯︎  │    "
