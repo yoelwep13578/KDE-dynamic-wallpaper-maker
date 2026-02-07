@@ -17,11 +17,17 @@ https://github.com/user-attachments/assets/b6c71238-7470-49c5-ada0-bed1c06294eb
 
 1. Run this script (without bothering to clone repo) by copying this command and running it in terminal
 
+   Copy & run this for using `curl`
    ```sh
    bash <(curl -sL https://raw.githubusercontent.com/yoelwep13578/KDE-dynamic-wallpaper-maker/refs/heads/main/light-dark-wallpaper-maker.sh)
    ```
 
-2. Press `[Enter]` and follow the instructions
+   Copy & run this for using `wget`
+   ```sh
+   bash <(wget -qO- https://raw.githubusercontent.com/yoelwep13578/KDE-dynamic-wallpaper-maker/refs/heads/main/light-dark-wallpaper-maker.sh)
+   ```
+
+3. Press `[Enter]` and follow the instructions
 
 ## How it Started & How it Works
 
