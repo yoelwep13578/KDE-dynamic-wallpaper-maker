@@ -2,7 +2,16 @@
 
 An `.sh` terminal-based script to create light/dark wallpaper list in KDE Plasma.
 
-![KDE Dynamic Wallpaper Maker](https://github.com/user-attachments/assets/dd470717-f058-4eb6-9eb8-ed7e7c938eda)
+<picture>
+  <!-- Light mode image -->
+  <source srcset="https://github.com/user-attachments/assets/4611cc1e-eb95-47f0-b7c5-e8e2ce4825bf" media="(prefers-color-scheme: light)" />
+
+  <!-- Dark mode image -->
+  <source srcset="https://github.com/user-attachments/assets/9131a7bb-4c41-4532-9b29-5232eef69d98" media="(prefers-color-scheme: dark)" />
+
+  <!-- Fallback (if prefers-color-scheme isn't supported) -->
+  <img src="https://github.com/user-attachments/assets/4611cc1e-eb95-47f0-b7c5-e8e2ce4825bf" />
+</picture>
 
 > Maybe, someone has already created a better tool than this one. I'll keeping my script in this repository so it won't get lost, while also publishing this script so it can help others who need it.
 
