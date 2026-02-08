@@ -141,7 +141,7 @@ echo -e "\n---\n"
 while :; do
     echo "Select save location:"
     echo "[1] User-only (~/.local/share/wallpapers/)"
-    echo "[2] System-wide (/usr/share/wallpapers/) - Requires sudo"
+    echo "[2] System-wide (/usr/share/wallpapers/) - sudo will prompted after confirm"
     echo "[3] Custom (Just for testing)"
     echo -e "\nNote: Saving in User-only is great for easy deletion if you get bored.\nSaving in System-wide is recommended for keeping and leaving it as is, like the default KDE wallpaper placed.\n"
     read -p "Select (1, 2, or 3) --> " loc_choice
