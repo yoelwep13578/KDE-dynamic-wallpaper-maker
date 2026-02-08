@@ -143,7 +143,7 @@ while :; do
     echo "[1] User-only (~/.local/share/wallpapers/)"
     echo "[2] System-wide (/usr/share/wallpapers/) - Requires sudo"
     echo "[3] Custom (Just for testing)"
-    echo -e "\nNote: Some people find that their custom wallpapers do not appear in Desktop & Wallpaper Settings when saved in User-only.\nSaving in System-wide is recommended, so it appears immediately in Desktop & Wallpaper Settings after process is complete.\n"
+    echo -e "\nNote: Saving in User-only is great for easy deletion if you get bored.\nSaving in System-wide is recommended for keeping and leaving it as is, like the default KDE wallpaper placed.\n"
     read -p "Select (1, 2, or 3) --> " loc_choice
 
     case $loc_choice in
