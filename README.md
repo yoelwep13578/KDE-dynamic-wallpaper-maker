@@ -19,7 +19,7 @@ An `.sh` terminal-based script to create light/dark wallpaper list in KDE Plasma
 
 https://github.com/user-attachments/assets/56cc2b39-d7d7-436c-b67e-ba3c86914fda
 
-> Video from [Szhatie](https://github.com/Szhatie)
+> Video from [Szhatie](https://github.com/Szhatie) ↓↓↓
 
 https://github.com/user-attachments/assets/070900aa-71f7-43b1-99fc-82741d1ffbaf
 
