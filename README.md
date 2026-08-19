@@ -2,6 +2,9 @@
 
 An `.sh` terminal-based script to create light/dark wallpaper list in KDE Plasma.
 
+> [!NOTE]
+> Plasma 6.7 don't need to use this anymore. Just create it with built-in system settings.
+
 <picture>
   <!-- Light mode image -->
   <source srcset="https://github.com/user-attachments/assets/4611cc1e-eb95-47f0-b7c5-e8e2ce4825bf" media="(prefers-color-scheme: light)" />
